@@ -6,7 +6,7 @@
 
 
 ###
-<h1 align="center">Hi 👋, PRANTIK this side</h1>
+<h1 align="center">Hi 👋, SHRUTI this side</h1>
 <h3 align="center">A passionate app developer from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranzalpha&label=Profile%20views&color=0e75b6&style=flat" alt="pranzalpha" /> </p>
