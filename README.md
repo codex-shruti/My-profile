@@ -7,19 +7,19 @@
 
 ###
 <h1 align="center">Hi 👋, SHRUTI this side</h1>
-<h3 align="center">A passionate app developer from INDIA</h3>
+<h3 align="center">A passionate web developer from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranzalpha&label=Profile%20views&color=0e75b6&style=flat" alt="pranzalpha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prantik2007" target="blank"><img src="https://img.shields.io/twitter/follow/prantik2007?logo=twitter&style=for-the-badge" alt="prantik2007" /></a> </p>
 
-- 🌱 I’m currently learning **Java scripts , Kali**
+- 🌱 I’m currently learning **HTML , C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranzalpha](https://github.com/pranzalpha)
+- 👨‍💻 All of my projects are available at [https://github.com/codex-shruti](https://github.com/codex-shruti)
 
 - 💬 Ask me about **vibe coding**
 
-- 📫 How to reach me **dasprantik413@gmail.com**
+- 📫 How to reach me **shruti.dev013@gmail.com**
 
 - ⚡ Fun fact **First “bug” logged: a moth in Harvard Mark II— code still flutters, debugging never ends.**
 
@@ -35,7 +35,7 @@
   <a href="https://facebook.com/prantik.das.984919" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yours_pranz" target="_blank">
+  <a href="https://instagram.com/itz_shae_zy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.gg/GwphMweWx" target="_blank">
@@ -47,5 +47,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pranzalpha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=codex-shruti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
